@@ -1,0 +1,24 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #000;
+}
+
+.box {
+    border-radius: 3px;
+    border: 1px solid #e5e5e5;
+    background-color: #fff;
+    padding: 15px;
+    width: 200px;
+    height: 200px;
+}
+
+button {
+    border-radius: 3px;
+    border: 1px solid #e5e5e5;
+    background-color: #fff;
+    width: 400px;
+    height: 50px;
+}
